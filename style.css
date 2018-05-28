@@ -1,0 +1,53 @@
+body  {
+  background: #dc4b5f;
+  text-align: center;
+}
+#main {
+  width: 1000px;
+  height: 600px;
+  background: #ffdc78;
+  margin: 25px auto;
+  border: solid 2px #facb56;
+}
+h1 {
+text-align: center;
+font-family: fantasy;
+font-size: 24pt;
+color:  #61656e;
+}
+button {
+  font-family: roboto;
+  font-size: 13px;
+  padding: 1em 2em;
+  margin: 3px;
+  color: white;
+  background-color: #6497b1;
+  text-transform: uppercase;
+  border-radius: 0.15em;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.3);
+
+}
+input {
+  font-family: roboto;
+  font-size: 13px;
+  padding: 1em 2em;
+  margin: 3px;
+  color: white;
+  background-color: #77b2d0;
+  text-transform: uppercase;
+  border-radius: 0.15em;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.3);
+
+}
+output {
+  font-family: roboto;
+  font-size: 13px;
+  padding: 1em 2em;
+  margin: 70px;
+  color: white;
+  background-color: #77b2d0;
+  text-transform: uppercase;
+  border-radius: 0.15em;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.3);
+
+}
